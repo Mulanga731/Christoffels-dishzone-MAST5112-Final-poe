@@ -15,7 +15,6 @@ Created functionality to add new menu items (name, price, and course).
 
 Added ability to calculate and display the total number of menu items.
 
-Implemented basic navigation between pages using React Navigation.
 
 # Refactoring
 
@@ -35,3 +34,7 @@ Adjusted text sizes and colors for a more consistent design.
 
 Tested app on Expo Go to ensure functionality works correctly.
 Video Demonstration
+ # User-Interface
+ Improved layout spacing and alignment for all the screens
+ Consistent colours ,fonts and styles across pages for a clean readable interface
+ 
