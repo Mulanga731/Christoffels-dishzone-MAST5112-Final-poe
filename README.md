@@ -42,6 +42,9 @@ Video Demonstration
 
  # Code structure and organization
  Split the screens into three namely AddMenuItemsScreen,HomeScreen and FilterScreen.
+ # Functional fixes 
+ Fixed the logic erros where dishes were not being added to the list.
+ Corrected the bugs that caused the dish counter to alway show 0 on the Homescreen
  # Testing
  Tested all the main screens and navigation in Expo Go and works shows all the features and working throughout the screens
 
