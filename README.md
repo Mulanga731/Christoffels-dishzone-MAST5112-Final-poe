@@ -53,5 +53,5 @@ Reference:
 OpenAI. (2025). ChatGPT (GPT-5). Retrieved from  https://chat.openai.com￼
 
  
- Improved naming convention and comments for readability
+
  
