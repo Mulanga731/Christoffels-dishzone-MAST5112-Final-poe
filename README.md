@@ -46,11 +46,12 @@ Video Demonstration
  Fixed the logic erros where dishes were not being added to the list.
  Corrected the bugs that caused the dish counter to alway show 0 on the Homescreen
  # Testing
- Tested all the main screens and navigation in Expo Go and works shows all the features and working throughout the screens
+ Tested all the main screens and navigation in Expo Go and works shows all the features and working throughout the screens.
 
 # References
 Reference:
 OpenAI. (2025). ChatGPT (GPT-5). Retrieved from  https://chat.openai.com￼
+
 
  
 
