@@ -34,7 +34,13 @@ Adjusted text sizes and colors for a more consistent design.
 
 Tested app on Expo Go to ensure functionality works correctly.
 Video Demonstration
+
  # User-Interface
  Improved layout spacing and alignment for all the screens
  Consistent colours ,fonts and styles across pages for a clean readable interface
+ Enhanced from validation to ensure no empty fields are submitted.
+
+ # Code structure and organization
+ Split the screens into three namely AddMenuItemsScreen,HomeScreen and FilterScreen.
+ Improved naming convention and comments for readability
  
