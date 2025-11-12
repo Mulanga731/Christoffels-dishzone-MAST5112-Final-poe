@@ -44,5 +44,11 @@ Video Demonstration
  Split the screens into three namely AddMenuItemsScreen,HomeScreen and FilterScreen.
  # Testing
  Tested all the main screens and navigation in Expo Go and works shows all the features and working throughout the screens
+
+# References
+Reference:
+OpenAI. (2025). ChatGPT (GPT-5). Retrieved from  https://chat.openai.com￼
+
+ 
  Improved naming convention and comments for readability
  
