@@ -1,4 +1,4 @@
- CHANGE LOG — Final POE (MAST5112)
+CHANGE LOG — Final POE (MAST5112)
 
  Student:Mulanga Matenzhe
  Student number:ST10479952
